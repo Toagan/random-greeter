@@ -1,2 +1,3 @@
-# random-greeter
-### this is a mock thing for me to push some code 
+# Age Calculator
+
+This Python script calculates a person's age based on their date of birth.
